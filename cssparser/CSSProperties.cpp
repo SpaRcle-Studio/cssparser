@@ -343,5 +343,7 @@ CSSProperties::CSSProperties()
         m_all_properties["word-wrap"] = "CSS3.0";
         m_all_properties["z-index"] = "CSS2.0,CSS2.1,CSS3.0";
         m_all_properties["zoom"] = "CSS3.0";
+        m_all_properties["flex-direction"] = "CSS3.0";
+        m_all_properties["flex"] = "CSS3.0";
     }
 }
